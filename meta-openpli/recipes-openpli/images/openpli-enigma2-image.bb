@@ -45,9 +45,15 @@ ENIGMA2_PLUGINS = " \
 	enigma2-plugin-extensions-openwebif \
 	enigma2-plugin-extensions-pictureplayer \
 	enigma2-plugin-extensions-ppanel \
+	enigma2-plugin-extensions-vuplus-images-panel \
 	\
 	enigma2-plugin-pli-softcamsetup \
 	\
+	enigma2-plugin-settings-donki-motor \
+	\
+	enigma2-plugin-softcams-oscam \
+	\
+	enigma2-plugin-systemplugins-autobouquetsmaker \
 	enigma2-plugin-systemplugins-fastscan \
 	enigma2-plugin-systemplugins-hotplug \
 	enigma2-plugin-systemplugins-mountmanager \
